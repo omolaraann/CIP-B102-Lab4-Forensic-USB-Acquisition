@@ -1,4 +1,4 @@
-# Lab 2 – Forensic USB Acquisition and Hash Verification
+# Forensic USB Acquisition and Hash Verification
 
 ## 1. Overview
 
